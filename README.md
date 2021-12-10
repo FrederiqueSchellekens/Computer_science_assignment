@@ -1,4 +1,6 @@
 # Computer_science_assignment
+This assignment concerns LSHMSM.py
+
 This code implements a Local Sensitivity Hashing algorithm and Model-Component Similarity Method on previous research.
 With the objective of finding duplicates within a data set consisting of tv's from several web shops, whilst reducing the computational burden which would typically arise from this problem. This leads to the objective of this code, testing the scalability of the implemented methods on large data sets.
 
